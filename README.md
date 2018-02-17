@@ -7,3 +7,12 @@
 
 ## Technologies Used:
 
+- Java Servlets
+- JSP
+- HTML
+- CSS
+- AJAX
+- MongoDB
+- MySQL
+- Python
+- GoogleAPI
